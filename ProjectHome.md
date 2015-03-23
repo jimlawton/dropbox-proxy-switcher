@@ -1,0 +1,1 @@
+Automatically switch Dropbox proxy settings based on detected network configuration.
